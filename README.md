@@ -12,7 +12,7 @@ This repository hosts a version of Egyptian Rat Screw the card game using React 
 
 # The Stack:  
 
-  Backend == Node.js / Express.js  (server script and API routing)
+  Backend == Node.js / Express.js  (server script and API routing)  
   Backend == PostgreSQL (database)
   
   Frontend == React.js (Front End Library)  
